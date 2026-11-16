@@ -43,6 +43,8 @@ together far more often than by chance, and dairy items (curd, whole milk, yogur
 cluster. A store could place these items near each other or bundle them in promotions.
 
 ### Charts
-![Most frequently bought items](images/top_items.png)
+![Most frequently bought items]<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/932e15ad-773b-49e0-8fdd-72bf8192f7b9" />
 
-![Association rules: support vs confidence, coloured by lift](images/rules_scatter.png)
+
+![Association rules: support vs confidence, coloured by lift](<img width="720" height="600" alt="image" src="https://github.com/user-attachments/assets/f8266f52-f499-4da4-bbe7-1edda406414f" />
+)
